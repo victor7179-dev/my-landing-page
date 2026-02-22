@@ -1,0 +1,17 @@
+Date: February 18, 2026
+
+What I built today:
+* Landing page v1 (index.html with embedded CSS)
+
+What I learned: Building landing page
+* 
+
+What confused me: nothing
+* 
+
+Does the page load in Chrome: yes
+
+Screenshot saved: yes
+
+Next step tomorrow:
+* Add a new section + CTA and deploy on Vercel
