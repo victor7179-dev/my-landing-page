@@ -1,0 +1,38 @@
+Date: February 22, 2026
+
+What I built today:
+* Improved landing page with CSS (bigger heading, hover effects, better spacing)
+* Created GitHub repository and made first commit
+* Deployed live website on Vercel
+
+What I learned:
+* How to use Git commands (git init, git add, git commit, git push)
+* How to create GitHub Personal Access Token
+* How to deploy a website on Vercel
+* My website is now live on the internet!
+
+What confused me:
+* GitHub authentication (but solved with Personal Access Token)
+
+Live website URL: https://my-landing-page-pink-ten.vercel.app
+
+GitHub repo: https://github.com/victor7179-dev/my-landing-page
+
+Next step tomorrow:
+* Add a new section (About or Services)
+* Learn more HTML elements
+* Maybe add images to the page
+
+> Date:
+What I did today:
+
+- > Improved landing page (added weekly schedule + updated CTA)
+- > Uploaded files to GitHub
+- > Deployed on Vercel
+
+> GitHub repo link:https://my-landing-page-pink-ten.vercel.app/
+Vercel live link:https://build-lab-2026-plum.vercel.app/
+What was hard today:
+What I will do tomorrow:
+
+- > Loom demo + small polish
